@@ -1,5 +1,9 @@
 # Project Vue creating TodoList
 
+## irá ser preciso realizar download do NodeJS
+
+## npm install -g @vue/cli 
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
