@@ -1,9 +1,4 @@
-# projetovue
-
-## Project setup
-```
-npm install
-```
+# Project Vue creating TodoList
 
 ### Compiles and hot-reloads for development
 ```
